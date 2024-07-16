@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-scroll'
-import profileImg from "../../public/profile-modified.png"
+import profileImg from "../assets/profile-modified.png"
 
 
 export default function Introduction() {
