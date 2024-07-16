@@ -3,9 +3,9 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/MyPortfolio/',
+  base: '/sk/',
   plugins: [react()],
   build: {
-    outDir:"MyPortfolio"
+    outDir:"sk"
   }
 })
